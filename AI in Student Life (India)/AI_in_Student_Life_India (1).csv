@@ -1,0 +1,501 @@
+Student_ID,State,Stream,Main_AI_Tool,Daily_Usage_Time,Primary_Purpose,Impact_on_Grades
+STU_1001,Punjab,Management,Perplexity AI,128,Learning New Skills,No Change
+STU_1002,Karnataka,Commerce,Grammarly,172,Homework Help,Significantly Improved
+STU_1003,Rajasthan,Arts,ChatGPT,70,Research,Slightly Improved
+STU_1004,Karnataka,Arts,Microsoft Copilot,94,Research,Slightly Improved
+STU_1005,Tamil Nadu,Engineering,Grammarly,86,Coding Assistance,Significantly Improved
+STU_1006,Rajasthan,Management,Perplexity AI,142,Homework Help,No Change
+STU_1007,Karnataka,Commerce,Grammarly,178,Learning New Skills,Slightly Improved
+STU_1008,Uttar Pradesh,Commerce,ChatGPT,59,Notes Summarization,Slightly Improved
+STU_1009,Karnataka,Engineering,Grammarly,88,Notes Summarization,No Change
+STU_1010,Punjab,Medical,Grammarly,75,Homework Help,Significantly Improved
+STU_1011,Punjab,Commerce,Grammarly,43,Research,Slightly Improved
+STU_1012,Gujarat,Arts,Google Gemini,73,Learning New Skills,Distracted
+STU_1013,Delhi,Science,Microsoft Copilot,89,Homework Help,No Change
+STU_1014,Rajasthan,Commerce,Perplexity AI,218,Learning New Skills,Significantly Improved
+STU_1015,Delhi,Medical,ChatGPT,86,Learning New Skills,No Change
+STU_1016,Delhi,Arts,ChatGPT,124,Homework Help,No Change
+STU_1017,Delhi,Engineering,ChatGPT,132,Learning New Skills,Significantly Improved
+STU_1018,Punjab,Arts,Google Gemini,83,Homework Help,Slightly Improved
+STU_1019,Rajasthan,Engineering,ChatGPT,154,Coding Assistance,No Change
+STU_1020,Rajasthan,Medical,Google Gemini,159,Homework Help,Distracted
+STU_1021,Tamil Nadu,Arts,Google Gemini,240,Homework Help,Distracted
+STU_1022,Karnataka,Management,Perplexity AI,125,Research,Distracted
+STU_1023,Uttar Pradesh,Engineering,Quillbot,142,Exam Preparation,Significantly Improved
+STU_1024,Uttar Pradesh,Commerce,Quillbot,197,Coding Assistance,Significantly Improved
+STU_1025,Karnataka,Management,Grammarly,62,Research,Significantly Improved
+STU_1026,Punjab,Commerce,Microsoft Copilot,51,Homework Help,Slightly Improved
+STU_1027,Uttar Pradesh,Science,Quillbot,79,Homework Help,Significantly Improved
+STU_1028,Gujarat,Management,Grammarly,122,Coding Assistance,Slightly Improved
+STU_1029,Punjab,Commerce,Microsoft Copilot,80,Research,No Change
+STU_1030,Gujarat,Arts,Quillbot,211,Research,Distracted
+STU_1031,Maharashtra,Commerce,Quillbot,133,Research,Distracted
+STU_1032,Rajasthan,Management,Perplexity AI,190,Exam Preparation,Distracted
+STU_1033,Delhi,Management,Microsoft Copilot,134,Exam Preparation,Distracted
+STU_1034,Tamil Nadu,Commerce,Microsoft Copilot,221,Research,Significantly Improved
+STU_1035,Gujarat,Engineering,Microsoft Copilot,234,Learning New Skills,Slightly Improved
+STU_1036,Delhi,Management,Grammarly,80,Learning New Skills,Slightly Improved
+STU_1037,Rajasthan,Arts,Microsoft Copilot,214,Exam Preparation,Significantly Improved
+STU_1038,Uttar Pradesh,Commerce,Microsoft Copilot,61,Coding Assistance,Distracted
+STU_1039,Tamil Nadu,Science,Perplexity AI,208,Homework Help,Distracted
+STU_1040,Maharashtra,Engineering,Google Gemini,58,Learning New Skills,Distracted
+STU_1041,Tamil Nadu,Medical,Microsoft Copilot,219,Homework Help,No Change
+STU_1042,Tamil Nadu,Engineering,Microsoft Copilot,184,Coding Assistance,No Change
+STU_1043,Punjab,Engineering,Microsoft Copilot,107,Notes Summarization,Slightly Improved
+STU_1044,Tamil Nadu,Management,Microsoft Copilot,240,Research,No Change
+STU_1045,Tamil Nadu,Medical,Google Gemini,216,Notes Summarization,Significantly Improved
+STU_1046,Uttar Pradesh,Engineering,Perplexity AI,35,Exam Preparation,Slightly Improved
+STU_1047,Punjab,Science,Google Gemini,187,Learning New Skills,Significantly Improved
+STU_1048,Gujarat,Medical,Quillbot,114,Coding Assistance,No Change
+STU_1049,Maharashtra,Commerce,Microsoft Copilot,153,Research,Significantly Improved
+STU_1050,Uttar Pradesh,Engineering,Google Gemini,166,Research,Significantly Improved
+STU_1051,Maharashtra,Science,Grammarly,116,Homework Help,Distracted
+STU_1052,Tamil Nadu,Science,ChatGPT,56,Learning New Skills,Significantly Improved
+STU_1053,Delhi,Engineering,Google Gemini,148,Learning New Skills,Significantly Improved
+STU_1054,Tamil Nadu,Engineering,Microsoft Copilot,79,Notes Summarization,Distracted
+STU_1055,Punjab,Medical,Quillbot,157,Research,Significantly Improved
+STU_1056,Karnataka,Medical,Grammarly,228,Research,No Change
+STU_1057,Rajasthan,Medical,Microsoft Copilot,116,Notes Summarization,No Change
+STU_1058,Rajasthan,Commerce,Quillbot,70,Coding Assistance,No Change
+STU_1059,Maharashtra,Science,Quillbot,116,Notes Summarization,Distracted
+STU_1060,Punjab,Commerce,Perplexity AI,234,Notes Summarization,Distracted
+STU_1061,Karnataka,Commerce,Quillbot,140,Homework Help,Distracted
+STU_1062,Maharashtra,Commerce,Google Gemini,169,Exam Preparation,Distracted
+STU_1063,Rajasthan,Science,Grammarly,144,Learning New Skills,Slightly Improved
+STU_1064,Rajasthan,Science,Perplexity AI,153,Notes Summarization,Distracted
+STU_1065,Uttar Pradesh,Engineering,Grammarly,34,Coding Assistance,Distracted
+STU_1066,Punjab,Arts,ChatGPT,208,Notes Summarization,Significantly Improved
+STU_1067,Punjab,Commerce,Perplexity AI,115,Coding Assistance,Distracted
+STU_1068,Punjab,Commerce,Perplexity AI,168,Exam Preparation,Significantly Improved
+STU_1069,Delhi,Medical,Quillbot,163,Learning New Skills,Slightly Improved
+STU_1070,Gujarat,Arts,Grammarly,144,Research,Significantly Improved
+STU_1071,Delhi,Engineering,Microsoft Copilot,218,Homework Help,Slightly Improved
+STU_1072,Rajasthan,Commerce,Google Gemini,49,Coding Assistance,Significantly Improved
+STU_1073,Maharashtra,Arts,Microsoft Copilot,136,Learning New Skills,Slightly Improved
+STU_1074,Maharashtra,Arts,Quillbot,176,Notes Summarization,Distracted
+STU_1075,Tamil Nadu,Arts,Perplexity AI,214,Research,Slightly Improved
+STU_1076,Rajasthan,Arts,Microsoft Copilot,96,Homework Help,Slightly Improved
+STU_1077,Karnataka,Engineering,Perplexity AI,223,Notes Summarization,Slightly Improved
+STU_1078,Gujarat,Commerce,Perplexity AI,209,Coding Assistance,Significantly Improved
+STU_1079,Karnataka,Science,Perplexity AI,118,Exam Preparation,Distracted
+STU_1080,Delhi,Arts,Grammarly,81,Notes Summarization,No Change
+STU_1081,Rajasthan,Commerce,Quillbot,229,Learning New Skills,Significantly Improved
+STU_1082,Maharashtra,Medical,Microsoft Copilot,39,Exam Preparation,Distracted
+STU_1083,Uttar Pradesh,Arts,Perplexity AI,126,Research,No Change
+STU_1084,Uttar Pradesh,Science,Perplexity AI,103,Exam Preparation,Significantly Improved
+STU_1085,Gujarat,Commerce,Microsoft Copilot,192,Learning New Skills,Slightly Improved
+STU_1086,Maharashtra,Management,ChatGPT,192,Research,No Change
+STU_1087,Uttar Pradesh,Commerce,Quillbot,107,Research,Slightly Improved
+STU_1088,Maharashtra,Science,ChatGPT,171,Exam Preparation,Slightly Improved
+STU_1089,Gujarat,Science,Microsoft Copilot,152,Coding Assistance,Slightly Improved
+STU_1090,Maharashtra,Management,Grammarly,157,Homework Help,No Change
+STU_1091,Gujarat,Management,Quillbot,177,Research,Slightly Improved
+STU_1092,Rajasthan,Science,ChatGPT,93,Exam Preparation,Slightly Improved
+STU_1093,Karnataka,Medical,Perplexity AI,123,Learning New Skills,Distracted
+STU_1094,Gujarat,Commerce,Perplexity AI,62,Exam Preparation,Significantly Improved
+STU_1095,Uttar Pradesh,Management,Grammarly,46,Homework Help,Slightly Improved
+STU_1096,Rajasthan,Science,Perplexity AI,95,Coding Assistance,Slightly Improved
+STU_1097,Punjab,Arts,Microsoft Copilot,210,Coding Assistance,Slightly Improved
+STU_1098,Gujarat,Medical,Google Gemini,80,Exam Preparation,Slightly Improved
+STU_1099,Uttar Pradesh,Science,Grammarly,168,Exam Preparation,Slightly Improved
+STU_1100,Maharashtra,Arts,Perplexity AI,180,Coding Assistance,No Change
+STU_1101,Tamil Nadu,Commerce,Google Gemini,180,Research,No Change
+STU_1102,Punjab,Engineering,Microsoft Copilot,133,Notes Summarization,Distracted
+STU_1103,Maharashtra,Engineering,Microsoft Copilot,226,Homework Help,Slightly Improved
+STU_1104,Uttar Pradesh,Engineering,Perplexity AI,45,Exam Preparation,No Change
+STU_1105,Rajasthan,Management,Perplexity AI,156,Notes Summarization,Significantly Improved
+STU_1106,Tamil Nadu,Engineering,Microsoft Copilot,66,Exam Preparation,Slightly Improved
+STU_1107,Rajasthan,Commerce,Grammarly,184,Exam Preparation,Significantly Improved
+STU_1108,Rajasthan,Science,Perplexity AI,55,Exam Preparation,Distracted
+STU_1109,Rajasthan,Arts,Perplexity AI,62,Research,Significantly Improved
+STU_1110,Punjab,Commerce,ChatGPT,60,Coding Assistance,Slightly Improved
+STU_1111,Delhi,Management,ChatGPT,183,Coding Assistance,Slightly Improved
+STU_1112,Tamil Nadu,Engineering,Quillbot,84,Research,Slightly Improved
+STU_1113,Tamil Nadu,Medical,Microsoft Copilot,64,Learning New Skills,Distracted
+STU_1114,Gujarat,Medical,Grammarly,44,Coding Assistance,Distracted
+STU_1115,Maharashtra,Management,Quillbot,162,Coding Assistance,Slightly Improved
+STU_1116,Delhi,Commerce,Google Gemini,178,Research,Significantly Improved
+STU_1117,Delhi,Management,ChatGPT,231,Homework Help,No Change
+STU_1118,Rajasthan,Engineering,Microsoft Copilot,192,Coding Assistance,No Change
+STU_1119,Karnataka,Medical,ChatGPT,157,Research,No Change
+STU_1120,Gujarat,Arts,Google Gemini,60,Notes Summarization,No Change
+STU_1121,Maharashtra,Arts,Quillbot,155,Research,No Change
+STU_1122,Gujarat,Science,Microsoft Copilot,47,Research,Slightly Improved
+STU_1123,Rajasthan,Science,Google Gemini,216,Exam Preparation,Significantly Improved
+STU_1124,Delhi,Medical,Quillbot,194,Homework Help,Distracted
+STU_1125,Maharashtra,Science,Google Gemini,212,Research,Distracted
+STU_1126,Tamil Nadu,Management,ChatGPT,64,Exam Preparation,Distracted
+STU_1127,Punjab,Management,Google Gemini,132,Homework Help,Slightly Improved
+STU_1128,Gujarat,Medical,Google Gemini,111,Research,Slightly Improved
+STU_1129,Rajasthan,Engineering,Grammarly,193,Exam Preparation,Distracted
+STU_1130,Uttar Pradesh,Science,ChatGPT,151,Exam Preparation,No Change
+STU_1131,Tamil Nadu,Science,Quillbot,235,Homework Help,Slightly Improved
+STU_1132,Tamil Nadu,Commerce,Perplexity AI,195,Research,Slightly Improved
+STU_1133,Maharashtra,Engineering,Quillbot,109,Notes Summarization,Significantly Improved
+STU_1134,Maharashtra,Management,ChatGPT,146,Exam Preparation,Distracted
+STU_1135,Maharashtra,Medical,Quillbot,182,Notes Summarization,No Change
+STU_1136,Tamil Nadu,Arts,Quillbot,155,Learning New Skills,No Change
+STU_1137,Punjab,Commerce,Perplexity AI,41,Learning New Skills,Significantly Improved
+STU_1138,Delhi,Science,ChatGPT,209,Learning New Skills,Distracted
+STU_1139,Karnataka,Commerce,Google Gemini,139,Notes Summarization,Significantly Improved
+STU_1140,Gujarat,Medical,Quillbot,235,Notes Summarization,No Change
+STU_1141,Rajasthan,Arts,Perplexity AI,191,Notes Summarization,Distracted
+STU_1142,Uttar Pradesh,Medical,Google Gemini,150,Coding Assistance,No Change
+STU_1143,Tamil Nadu,Science,Quillbot,216,Homework Help,Slightly Improved
+STU_1144,Rajasthan,Arts,Google Gemini,239,Notes Summarization,Significantly Improved
+STU_1145,Rajasthan,Management,Microsoft Copilot,110,Homework Help,No Change
+STU_1146,Karnataka,Commerce,Perplexity AI,234,Coding Assistance,Slightly Improved
+STU_1147,Rajasthan,Engineering,Grammarly,111,Notes Summarization,Significantly Improved
+STU_1148,Rajasthan,Medical,ChatGPT,89,Homework Help,Distracted
+STU_1149,Uttar Pradesh,Arts,Microsoft Copilot,200,Learning New Skills,Distracted
+STU_1150,Delhi,Management,Google Gemini,197,Notes Summarization,Significantly Improved
+STU_1151,Karnataka,Engineering,Perplexity AI,152,Notes Summarization,Slightly Improved
+STU_1152,Karnataka,Engineering,Microsoft Copilot,240,Coding Assistance,Slightly Improved
+STU_1153,Karnataka,Medical,Grammarly,239,Coding Assistance,Significantly Improved
+STU_1154,Rajasthan,Engineering,Grammarly,198,Learning New Skills,Significantly Improved
+STU_1155,Uttar Pradesh,Medical,Quillbot,222,Coding Assistance,Distracted
+STU_1156,Karnataka,Engineering,Grammarly,135,Coding Assistance,No Change
+STU_1157,Punjab,Engineering,ChatGPT,39,Homework Help,Slightly Improved
+STU_1158,Maharashtra,Arts,Grammarly,125,Research,Slightly Improved
+STU_1159,Uttar Pradesh,Science,Microsoft Copilot,191,Coding Assistance,Slightly Improved
+STU_1160,Uttar Pradesh,Engineering,Grammarly,32,Notes Summarization,Distracted
+STU_1161,Gujarat,Medical,Google Gemini,43,Coding Assistance,Slightly Improved
+STU_1162,Tamil Nadu,Engineering,Grammarly,103,Coding Assistance,Distracted
+STU_1163,Gujarat,Medical,Google Gemini,77,Research,Distracted
+STU_1164,Uttar Pradesh,Management,Google Gemini,192,Research,Significantly Improved
+STU_1165,Uttar Pradesh,Science,ChatGPT,149,Research,Significantly Improved
+STU_1166,Tamil Nadu,Science,Google Gemini,136,Exam Preparation,Slightly Improved
+STU_1167,Maharashtra,Engineering,Google Gemini,108,Coding Assistance,Significantly Improved
+STU_1168,Punjab,Arts,Google Gemini,202,Exam Preparation,No Change
+STU_1169,Rajasthan,Medical,Perplexity AI,190,Exam Preparation,No Change
+STU_1170,Gujarat,Science,Perplexity AI,203,Learning New Skills,Significantly Improved
+STU_1171,Punjab,Commerce,Quillbot,119,Homework Help,Slightly Improved
+STU_1172,Uttar Pradesh,Medical,ChatGPT,132,Exam Preparation,No Change
+STU_1173,Karnataka,Arts,Google Gemini,144,Research,No Change
+STU_1174,Gujarat,Engineering,ChatGPT,89,Research,No Change
+STU_1175,Tamil Nadu,Medical,Grammarly,86,Research,Distracted
+STU_1176,Karnataka,Arts,ChatGPT,223,Coding Assistance,Slightly Improved
+STU_1177,Punjab,Medical,ChatGPT,73,Exam Preparation,No Change
+STU_1178,Delhi,Management,Perplexity AI,57,Exam Preparation,Distracted
+STU_1179,Punjab,Science,Grammarly,118,Learning New Skills,No Change
+STU_1180,Karnataka,Management,Google Gemini,197,Notes Summarization,Distracted
+STU_1181,Gujarat,Engineering,ChatGPT,80,Coding Assistance,Distracted
+STU_1182,Maharashtra,Science,Perplexity AI,123,Exam Preparation,Significantly Improved
+STU_1183,Gujarat,Engineering,Microsoft Copilot,78,Notes Summarization,Slightly Improved
+STU_1184,Gujarat,Commerce,Microsoft Copilot,176,Notes Summarization,Significantly Improved
+STU_1185,Rajasthan,Commerce,Perplexity AI,226,Exam Preparation,No Change
+STU_1186,Gujarat,Management,Google Gemini,169,Learning New Skills,No Change
+STU_1187,Punjab,Management,Microsoft Copilot,95,Learning New Skills,Significantly Improved
+STU_1188,Punjab,Medical,Quillbot,156,Exam Preparation,Slightly Improved
+STU_1189,Gujarat,Science,Perplexity AI,64,Coding Assistance,Significantly Improved
+STU_1190,Uttar Pradesh,Management,Microsoft Copilot,212,Exam Preparation,Significantly Improved
+STU_1191,Maharashtra,Commerce,Microsoft Copilot,79,Coding Assistance,Distracted
+STU_1192,Karnataka,Engineering,Microsoft Copilot,60,Homework Help,Significantly Improved
+STU_1193,Uttar Pradesh,Management,Quillbot,166,Notes Summarization,Slightly Improved
+STU_1194,Uttar Pradesh,Commerce,Microsoft Copilot,139,Homework Help,Slightly Improved
+STU_1195,Rajasthan,Medical,Perplexity AI,209,Learning New Skills,Significantly Improved
+STU_1196,Karnataka,Commerce,Quillbot,39,Coding Assistance,No Change
+STU_1197,Punjab,Arts,Microsoft Copilot,101,Homework Help,Slightly Improved
+STU_1198,Delhi,Commerce,Quillbot,233,Exam Preparation,Slightly Improved
+STU_1199,Rajasthan,Engineering,Quillbot,170,Learning New Skills,Slightly Improved
+STU_1200,Maharashtra,Science,Grammarly,240,Homework Help,Significantly Improved
+STU_1201,Punjab,Commerce,Grammarly,121,Learning New Skills,Significantly Improved
+STU_1202,Tamil Nadu,Science,Grammarly,162,Exam Preparation,Distracted
+STU_1203,Maharashtra,Medical,Grammarly,199,Research,Distracted
+STU_1204,Tamil Nadu,Medical,Quillbot,120,Exam Preparation,Significantly Improved
+STU_1205,Maharashtra,Arts,Quillbot,184,Coding Assistance,Significantly Improved
+STU_1206,Karnataka,Medical,Microsoft Copilot,92,Research,Distracted
+STU_1207,Gujarat,Medical,Microsoft Copilot,31,Research,Significantly Improved
+STU_1208,Tamil Nadu,Engineering,Microsoft Copilot,98,Homework Help,Distracted
+STU_1209,Uttar Pradesh,Arts,Microsoft Copilot,97,Coding Assistance,Slightly Improved
+STU_1210,Punjab,Arts,Google Gemini,87,Notes Summarization,Slightly Improved
+STU_1211,Delhi,Science,Grammarly,118,Coding Assistance,Distracted
+STU_1212,Gujarat,Medical,ChatGPT,141,Homework Help,Slightly Improved
+STU_1213,Tamil Nadu,Engineering,Grammarly,74,Notes Summarization,Distracted
+STU_1214,Gujarat,Engineering,Grammarly,131,Learning New Skills,Distracted
+STU_1215,Maharashtra,Science,Microsoft Copilot,36,Homework Help,Significantly Improved
+STU_1216,Punjab,Medical,Quillbot,42,Coding Assistance,Significantly Improved
+STU_1217,Gujarat,Arts,Quillbot,102,Homework Help,No Change
+STU_1218,Gujarat,Commerce,Google Gemini,77,Exam Preparation,No Change
+STU_1219,Rajasthan,Medical,ChatGPT,56,Notes Summarization,Slightly Improved
+STU_1220,Gujarat,Management,Microsoft Copilot,203,Research,Distracted
+STU_1221,Uttar Pradesh,Commerce,Quillbot,186,Research,Significantly Improved
+STU_1222,Rajasthan,Medical,Google Gemini,106,Homework Help,No Change
+STU_1223,Rajasthan,Arts,Grammarly,192,Learning New Skills,No Change
+STU_1224,Punjab,Medical,Grammarly,172,Exam Preparation,Significantly Improved
+STU_1225,Gujarat,Science,ChatGPT,120,Exam Preparation,Distracted
+STU_1226,Karnataka,Management,Grammarly,123,Exam Preparation,Slightly Improved
+STU_1227,Delhi,Medical,ChatGPT,233,Learning New Skills,Significantly Improved
+STU_1228,Maharashtra,Management,Microsoft Copilot,77,Homework Help,Distracted
+STU_1229,Punjab,Arts,Google Gemini,37,Coding Assistance,Significantly Improved
+STU_1230,Gujarat,Management,Google Gemini,152,Notes Summarization,No Change
+STU_1231,Rajasthan,Commerce,ChatGPT,125,Notes Summarization,No Change
+STU_1232,Karnataka,Science,Quillbot,143,Homework Help,Slightly Improved
+STU_1233,Tamil Nadu,Arts,ChatGPT,177,Homework Help,Significantly Improved
+STU_1234,Uttar Pradesh,Management,Grammarly,229,Coding Assistance,Slightly Improved
+STU_1235,Rajasthan,Science,Grammarly,224,Learning New Skills,No Change
+STU_1236,Rajasthan,Commerce,Quillbot,240,Homework Help,Significantly Improved
+STU_1237,Maharashtra,Arts,Grammarly,109,Homework Help,Significantly Improved
+STU_1238,Maharashtra,Arts,ChatGPT,233,Coding Assistance,Distracted
+STU_1239,Tamil Nadu,Arts,Quillbot,189,Coding Assistance,Significantly Improved
+STU_1240,Maharashtra,Management,ChatGPT,129,Homework Help,No Change
+STU_1241,Tamil Nadu,Commerce,Perplexity AI,185,Learning New Skills,Significantly Improved
+STU_1242,Uttar Pradesh,Engineering,Quillbot,231,Homework Help,Distracted
+STU_1243,Rajasthan,Science,Perplexity AI,87,Coding Assistance,Significantly Improved
+STU_1244,Rajasthan,Arts,Google Gemini,125,Exam Preparation,Slightly Improved
+STU_1245,Maharashtra,Arts,Perplexity AI,151,Exam Preparation,No Change
+STU_1246,Rajasthan,Commerce,Quillbot,120,Exam Preparation,No Change
+STU_1247,Tamil Nadu,Management,Google Gemini,192,Learning New Skills,Significantly Improved
+STU_1248,Maharashtra,Arts,Quillbot,199,Research,No Change
+STU_1249,Delhi,Management,ChatGPT,94,Learning New Skills,Significantly Improved
+STU_1250,Uttar Pradesh,Medical,Microsoft Copilot,188,Coding Assistance,Slightly Improved
+STU_1251,Uttar Pradesh,Science,Quillbot,43,Coding Assistance,Significantly Improved
+STU_1252,Gujarat,Commerce,Google Gemini,125,Homework Help,No Change
+STU_1253,Rajasthan,Engineering,Google Gemini,189,Homework Help,No Change
+STU_1254,Maharashtra,Medical,Microsoft Copilot,141,Notes Summarization,Significantly Improved
+STU_1255,Tamil Nadu,Commerce,Google Gemini,127,Homework Help,No Change
+STU_1256,Uttar Pradesh,Management,Perplexity AI,37,Research,Significantly Improved
+STU_1257,Maharashtra,Management,Quillbot,65,Learning New Skills,Slightly Improved
+STU_1258,Maharashtra,Management,Google Gemini,182,Coding Assistance,No Change
+STU_1259,Uttar Pradesh,Commerce,ChatGPT,66,Learning New Skills,Significantly Improved
+STU_1260,Punjab,Medical,ChatGPT,76,Exam Preparation,Distracted
+STU_1261,Maharashtra,Commerce,Grammarly,122,Notes Summarization,Slightly Improved
+STU_1262,Maharashtra,Management,ChatGPT,143,Research,Significantly Improved
+STU_1263,Rajasthan,Science,Perplexity AI,113,Research,Slightly Improved
+STU_1264,Punjab,Science,ChatGPT,126,Exam Preparation,Significantly Improved
+STU_1265,Maharashtra,Arts,Perplexity AI,69,Exam Preparation,Distracted
+STU_1266,Uttar Pradesh,Engineering,Perplexity AI,121,Coding Assistance,Distracted
+STU_1267,Maharashtra,Engineering,Perplexity AI,232,Coding Assistance,Distracted
+STU_1268,Maharashtra,Engineering,Grammarly,167,Homework Help,Significantly Improved
+STU_1269,Karnataka,Science,Perplexity AI,89,Homework Help,Significantly Improved
+STU_1270,Punjab,Arts,Quillbot,140,Coding Assistance,Slightly Improved
+STU_1271,Karnataka,Arts,ChatGPT,179,Learning New Skills,Significantly Improved
+STU_1272,Gujarat,Management,Quillbot,80,Homework Help,Significantly Improved
+STU_1273,Rajasthan,Engineering,Microsoft Copilot,45,Homework Help,Slightly Improved
+STU_1274,Gujarat,Medical,Google Gemini,144,Homework Help,Distracted
+STU_1275,Tamil Nadu,Management,ChatGPT,160,Learning New Skills,No Change
+STU_1276,Tamil Nadu,Science,ChatGPT,170,Notes Summarization,Significantly Improved
+STU_1277,Gujarat,Commerce,Grammarly,148,Coding Assistance,Significantly Improved
+STU_1278,Punjab,Management,Grammarly,143,Homework Help,Slightly Improved
+STU_1279,Gujarat,Management,Perplexity AI,56,Coding Assistance,No Change
+STU_1280,Tamil Nadu,Science,Quillbot,50,Notes Summarization,Distracted
+STU_1281,Uttar Pradesh,Arts,Microsoft Copilot,115,Exam Preparation,Slightly Improved
+STU_1282,Tamil Nadu,Arts,Quillbot,133,Learning New Skills,No Change
+STU_1283,Gujarat,Management,Quillbot,137,Exam Preparation,Distracted
+STU_1284,Punjab,Science,Quillbot,173,Research,Distracted
+STU_1285,Delhi,Commerce,Microsoft Copilot,168,Exam Preparation,Slightly Improved
+STU_1286,Karnataka,Commerce,Microsoft Copilot,124,Notes Summarization,Distracted
+STU_1287,Rajasthan,Medical,Google Gemini,187,Learning New Skills,Slightly Improved
+STU_1288,Gujarat,Commerce,Google Gemini,198,Exam Preparation,Distracted
+STU_1289,Tamil Nadu,Commerce,Quillbot,230,Coding Assistance,Slightly Improved
+STU_1290,Karnataka,Management,Grammarly,136,Notes Summarization,Significantly Improved
+STU_1291,Maharashtra,Arts,Grammarly,57,Coding Assistance,Slightly Improved
+STU_1292,Delhi,Commerce,Microsoft Copilot,91,Learning New Skills,Significantly Improved
+STU_1293,Maharashtra,Engineering,Quillbot,74,Research,Significantly Improved
+STU_1294,Punjab,Medical,Grammarly,220,Homework Help,Distracted
+STU_1295,Maharashtra,Science,Perplexity AI,223,Notes Summarization,No Change
+STU_1296,Uttar Pradesh,Engineering,Perplexity AI,144,Exam Preparation,Slightly Improved
+STU_1297,Gujarat,Arts,Microsoft Copilot,205,Notes Summarization,Slightly Improved
+STU_1298,Punjab,Engineering,Quillbot,154,Exam Preparation,Significantly Improved
+STU_1299,Maharashtra,Medical,Perplexity AI,56,Learning New Skills,No Change
+STU_1300,Punjab,Science,ChatGPT,56,Notes Summarization,No Change
+STU_1301,Tamil Nadu,Commerce,Grammarly,150,Exam Preparation,No Change
+STU_1302,Delhi,Science,ChatGPT,137,Research,Slightly Improved
+STU_1303,Gujarat,Science,Microsoft Copilot,236,Learning New Skills,Distracted
+STU_1304,Punjab,Arts,Quillbot,133,Homework Help,Distracted
+STU_1305,Delhi,Engineering,Grammarly,181,Coding Assistance,Slightly Improved
+STU_1306,Rajasthan,Medical,Microsoft Copilot,149,Homework Help,Significantly Improved
+STU_1307,Rajasthan,Medical,ChatGPT,95,Learning New Skills,Distracted
+STU_1308,Maharashtra,Engineering,Perplexity AI,118,Coding Assistance,Slightly Improved
+STU_1309,Karnataka,Medical,Microsoft Copilot,104,Learning New Skills,Distracted
+STU_1310,Punjab,Medical,ChatGPT,100,Learning New Skills,Significantly Improved
+STU_1311,Uttar Pradesh,Arts,Grammarly,202,Homework Help,Slightly Improved
+STU_1312,Uttar Pradesh,Management,Grammarly,41,Coding Assistance,Slightly Improved
+STU_1313,Karnataka,Science,Perplexity AI,81,Coding Assistance,Significantly Improved
+STU_1314,Tamil Nadu,Commerce,Quillbot,222,Coding Assistance,No Change
+STU_1315,Punjab,Arts,Perplexity AI,58,Notes Summarization,No Change
+STU_1316,Tamil Nadu,Science,Quillbot,99,Coding Assistance,Distracted
+STU_1317,Tamil Nadu,Engineering,Microsoft Copilot,160,Exam Preparation,No Change
+STU_1318,Punjab,Commerce,Perplexity AI,151,Homework Help,Significantly Improved
+STU_1319,Maharashtra,Commerce,ChatGPT,113,Learning New Skills,Significantly Improved
+STU_1320,Delhi,Arts,Google Gemini,122,Learning New Skills,Significantly Improved
+STU_1321,Tamil Nadu,Medical,Microsoft Copilot,171,Coding Assistance,No Change
+STU_1322,Rajasthan,Science,Google Gemini,157,Exam Preparation,No Change
+STU_1323,Maharashtra,Management,Google Gemini,229,Research,Significantly Improved
+STU_1324,Gujarat,Science,Grammarly,170,Research,No Change
+STU_1325,Gujarat,Medical,Perplexity AI,236,Learning New Skills,Distracted
+STU_1326,Punjab,Engineering,Grammarly,151,Research,Slightly Improved
+STU_1327,Uttar Pradesh,Science,Microsoft Copilot,168,Coding Assistance,Distracted
+STU_1328,Rajasthan,Arts,Grammarly,184,Research,No Change
+STU_1329,Uttar Pradesh,Medical,Perplexity AI,192,Coding Assistance,Slightly Improved
+STU_1330,Maharashtra,Arts,Perplexity AI,203,Research,No Change
+STU_1331,Tamil Nadu,Engineering,ChatGPT,154,Research,No Change
+STU_1332,Rajasthan,Arts,ChatGPT,84,Exam Preparation,No Change
+STU_1333,Maharashtra,Commerce,Grammarly,34,Exam Preparation,No Change
+STU_1334,Uttar Pradesh,Management,Grammarly,71,Notes Summarization,Distracted
+STU_1335,Punjab,Engineering,Google Gemini,148,Research,Distracted
+STU_1336,Punjab,Science,Quillbot,116,Notes Summarization,Significantly Improved
+STU_1337,Punjab,Medical,Perplexity AI,70,Notes Summarization,Significantly Improved
+STU_1338,Punjab,Science,Google Gemini,160,Homework Help,Distracted
+STU_1339,Gujarat,Engineering,ChatGPT,224,Notes Summarization,Slightly Improved
+STU_1340,Delhi,Commerce,Google Gemini,192,Learning New Skills,Slightly Improved
+STU_1341,Uttar Pradesh,Commerce,Quillbot,101,Notes Summarization,No Change
+STU_1342,Uttar Pradesh,Commerce,Quillbot,125,Exam Preparation,Slightly Improved
+STU_1343,Rajasthan,Engineering,Google Gemini,153,Notes Summarization,Slightly Improved
+STU_1344,Maharashtra,Engineering,ChatGPT,72,Learning New Skills,No Change
+STU_1345,Karnataka,Science,Google Gemini,89,Homework Help,Significantly Improved
+STU_1346,Karnataka,Medical,Microsoft Copilot,220,Coding Assistance,Significantly Improved
+STU_1347,Gujarat,Commerce,Grammarly,35,Exam Preparation,Slightly Improved
+STU_1348,Gujarat,Science,ChatGPT,40,Notes Summarization,No Change
+STU_1349,Maharashtra,Commerce,Google Gemini,229,Learning New Skills,Slightly Improved
+STU_1350,Tamil Nadu,Commerce,Perplexity AI,145,Learning New Skills,Distracted
+STU_1351,Rajasthan,Management,Grammarly,148,Notes Summarization,No Change
+STU_1352,Karnataka,Science,Perplexity AI,52,Notes Summarization,No Change
+STU_1353,Rajasthan,Management,ChatGPT,121,Homework Help,Slightly Improved
+STU_1354,Gujarat,Management,Microsoft Copilot,181,Learning New Skills,Significantly Improved
+STU_1355,Punjab,Commerce,Perplexity AI,108,Notes Summarization,Distracted
+STU_1356,Delhi,Management,ChatGPT,237,Homework Help,Slightly Improved
+STU_1357,Punjab,Engineering,Perplexity AI,221,Exam Preparation,Significantly Improved
+STU_1358,Uttar Pradesh,Medical,Perplexity AI,177,Learning New Skills,No Change
+STU_1359,Gujarat,Management,Microsoft Copilot,100,Research,No Change
+STU_1360,Delhi,Engineering,Perplexity AI,82,Exam Preparation,No Change
+STU_1361,Delhi,Arts,Quillbot,194,Learning New Skills,Slightly Improved
+STU_1362,Karnataka,Medical,Grammarly,231,Notes Summarization,Slightly Improved
+STU_1363,Uttar Pradesh,Science,Google Gemini,86,Homework Help,Significantly Improved
+STU_1364,Rajasthan,Management,Grammarly,56,Notes Summarization,Significantly Improved
+STU_1365,Delhi,Science,Quillbot,139,Research,No Change
+STU_1366,Uttar Pradesh,Science,Grammarly,151,Homework Help,Distracted
+STU_1367,Rajasthan,Commerce,Microsoft Copilot,215,Homework Help,Slightly Improved
+STU_1368,Delhi,Commerce,Microsoft Copilot,207,Homework Help,Slightly Improved
+STU_1369,Uttar Pradesh,Management,Google Gemini,147,Exam Preparation,Distracted
+STU_1370,Gujarat,Science,Perplexity AI,123,Coding Assistance,Slightly Improved
+STU_1371,Maharashtra,Management,Perplexity AI,97,Research,No Change
+STU_1372,Maharashtra,Arts,Microsoft Copilot,52,Homework Help,Significantly Improved
+STU_1373,Gujarat,Engineering,Quillbot,81,Homework Help,Significantly Improved
+STU_1374,Maharashtra,Science,Grammarly,92,Learning New Skills,Distracted
+STU_1375,Rajasthan,Management,Microsoft Copilot,58,Notes Summarization,Distracted
+STU_1376,Punjab,Engineering,Quillbot,61,Coding Assistance,No Change
+STU_1377,Delhi,Science,Microsoft Copilot,239,Homework Help,Distracted
+STU_1378,Maharashtra,Arts,Quillbot,202,Coding Assistance,Distracted
+STU_1379,Maharashtra,Commerce,Perplexity AI,110,Notes Summarization,Distracted
+STU_1380,Tamil Nadu,Medical,Quillbot,87,Learning New Skills,Distracted
+STU_1381,Gujarat,Arts,Grammarly,94,Research,Significantly Improved
+STU_1382,Uttar Pradesh,Arts,Google Gemini,123,Coding Assistance,Significantly Improved
+STU_1383,Delhi,Science,Grammarly,221,Coding Assistance,Significantly Improved
+STU_1384,Uttar Pradesh,Engineering,Google Gemini,106,Coding Assistance,Significantly Improved
+STU_1385,Punjab,Arts,Quillbot,182,Exam Preparation,Slightly Improved
+STU_1386,Rajasthan,Medical,Grammarly,35,Research,Slightly Improved
+STU_1387,Gujarat,Engineering,Quillbot,148,Coding Assistance,Distracted
+STU_1388,Delhi,Medical,Quillbot,89,Homework Help,Distracted
+STU_1389,Uttar Pradesh,Management,Google Gemini,167,Exam Preparation,Slightly Improved
+STU_1390,Karnataka,Science,Microsoft Copilot,83,Notes Summarization,Significantly Improved
+STU_1391,Tamil Nadu,Engineering,Microsoft Copilot,101,Coding Assistance,No Change
+STU_1392,Maharashtra,Arts,Microsoft Copilot,175,Homework Help,Significantly Improved
+STU_1393,Gujarat,Science,Quillbot,221,Homework Help,No Change
+STU_1394,Gujarat,Science,ChatGPT,235,Notes Summarization,Slightly Improved
+STU_1395,Tamil Nadu,Medical,Quillbot,31,Research,No Change
+STU_1396,Karnataka,Medical,Google Gemini,108,Exam Preparation,Significantly Improved
+STU_1397,Maharashtra,Medical,Perplexity AI,188,Research,Slightly Improved
+STU_1398,Uttar Pradesh,Engineering,Perplexity AI,81,Research,No Change
+STU_1399,Punjab,Management,Microsoft Copilot,72,Notes Summarization,Significantly Improved
+STU_1400,Delhi,Commerce,Perplexity AI,52,Coding Assistance,Slightly Improved
+STU_1401,Karnataka,Commerce,Microsoft Copilot,40,Exam Preparation,Significantly Improved
+STU_1402,Delhi,Medical,Google Gemini,230,Research,Slightly Improved
+STU_1403,Rajasthan,Management,Quillbot,134,Research,Distracted
+STU_1404,Rajasthan,Engineering,Grammarly,64,Coding Assistance,Slightly Improved
+STU_1405,Rajasthan,Science,Grammarly,211,Research,Significantly Improved
+STU_1406,Gujarat,Management,ChatGPT,82,Homework Help,Distracted
+STU_1407,Karnataka,Arts,Microsoft Copilot,73,Coding Assistance,Distracted
+STU_1408,Uttar Pradesh,Engineering,ChatGPT,34,Research,Significantly Improved
+STU_1409,Karnataka,Commerce,Google Gemini,69,Research,Slightly Improved
+STU_1410,Gujarat,Engineering,Quillbot,85,Homework Help,Significantly Improved
+STU_1411,Tamil Nadu,Engineering,Quillbot,39,Exam Preparation,Slightly Improved
+STU_1412,Delhi,Medical,Microsoft Copilot,66,Homework Help,Distracted
+STU_1413,Gujarat,Medical,Quillbot,41,Notes Summarization,Significantly Improved
+STU_1414,Uttar Pradesh,Management,ChatGPT,109,Exam Preparation,Distracted
+STU_1415,Rajasthan,Science,Quillbot,117,Learning New Skills,Distracted
+STU_1416,Rajasthan,Engineering,Perplexity AI,99,Exam Preparation,No Change
+STU_1417,Punjab,Medical,ChatGPT,173,Notes Summarization,Significantly Improved
+STU_1418,Maharashtra,Commerce,Microsoft Copilot,123,Research,Significantly Improved
+STU_1419,Tamil Nadu,Arts,Quillbot,100,Homework Help,Distracted
+STU_1420,Tamil Nadu,Science,Microsoft Copilot,141,Learning New Skills,Significantly Improved
+STU_1421,Punjab,Management,Quillbot,166,Exam Preparation,No Change
+STU_1422,Gujarat,Medical,Google Gemini,224,Notes Summarization,Significantly Improved
+STU_1423,Gujarat,Commerce,Grammarly,72,Research,Significantly Improved
+STU_1424,Tamil Nadu,Medical,Perplexity AI,201,Notes Summarization,Slightly Improved
+STU_1425,Rajasthan,Science,Quillbot,193,Exam Preparation,No Change
+STU_1426,Uttar Pradesh,Engineering,Quillbot,97,Notes Summarization,Distracted
+STU_1427,Delhi,Commerce,Microsoft Copilot,153,Learning New Skills,Distracted
+STU_1428,Uttar Pradesh,Commerce,Quillbot,120,Learning New Skills,Slightly Improved
+STU_1429,Karnataka,Science,Perplexity AI,223,Coding Assistance,No Change
+STU_1430,Karnataka,Science,ChatGPT,88,Homework Help,Significantly Improved
+STU_1431,Uttar Pradesh,Medical,Microsoft Copilot,181,Notes Summarization,Distracted
+STU_1432,Gujarat,Management,ChatGPT,167,Notes Summarization,No Change
+STU_1433,Gujarat,Engineering,Google Gemini,142,Coding Assistance,Distracted
+STU_1434,Uttar Pradesh,Medical,Quillbot,175,Learning New Skills,No Change
+STU_1435,Gujarat,Engineering,Quillbot,144,Notes Summarization,Distracted
+STU_1436,Delhi,Commerce,Google Gemini,176,Coding Assistance,No Change
+STU_1437,Punjab,Engineering,Google Gemini,87,Exam Preparation,Slightly Improved
+STU_1438,Punjab,Commerce,Microsoft Copilot,91,Homework Help,Slightly Improved
+STU_1439,Tamil Nadu,Engineering,Quillbot,71,Research,Significantly Improved
+STU_1440,Uttar Pradesh,Science,Quillbot,178,Coding Assistance,Slightly Improved
+STU_1441,Delhi,Engineering,Google Gemini,202,Research,No Change
+STU_1442,Rajasthan,Science,ChatGPT,237,Learning New Skills,Significantly Improved
+STU_1443,Maharashtra,Arts,Google Gemini,51,Learning New Skills,Significantly Improved
+STU_1444,Karnataka,Science,Quillbot,164,Notes Summarization,Significantly Improved
+STU_1445,Rajasthan,Management,ChatGPT,169,Learning New Skills,Slightly Improved
+STU_1446,Karnataka,Science,Grammarly,153,Learning New Skills,Significantly Improved
+STU_1447,Tamil Nadu,Engineering,Google Gemini,34,Homework Help,Distracted
+STU_1448,Maharashtra,Engineering,Perplexity AI,235,Learning New Skills,Slightly Improved
+STU_1449,Tamil Nadu,Medical,ChatGPT,240,Notes Summarization,Significantly Improved
+STU_1450,Gujarat,Medical,Perplexity AI,235,Notes Summarization,Distracted
+STU_1451,Maharashtra,Management,ChatGPT,214,Homework Help,Slightly Improved
+STU_1452,Maharashtra,Commerce,Microsoft Copilot,206,Exam Preparation,Slightly Improved
+STU_1453,Karnataka,Commerce,Quillbot,139,Homework Help,No Change
+STU_1454,Delhi,Arts,Microsoft Copilot,162,Exam Preparation,Significantly Improved
+STU_1455,Uttar Pradesh,Medical,ChatGPT,117,Exam Preparation,Distracted
+STU_1456,Gujarat,Medical,Microsoft Copilot,134,Notes Summarization,Slightly Improved
+STU_1457,Maharashtra,Science,Perplexity AI,235,Coding Assistance,No Change
+STU_1458,Gujarat,Science,ChatGPT,115,Research,Significantly Improved
+STU_1459,Maharashtra,Science,ChatGPT,110,Coding Assistance,No Change
+STU_1460,Tamil Nadu,Commerce,ChatGPT,104,Exam Preparation,No Change
+STU_1461,Karnataka,Commerce,Microsoft Copilot,36,Research,No Change
+STU_1462,Tamil Nadu,Engineering,ChatGPT,153,Learning New Skills,Slightly Improved
+STU_1463,Maharashtra,Commerce,Google Gemini,127,Learning New Skills,Distracted
+STU_1464,Gujarat,Arts,Microsoft Copilot,63,Coding Assistance,No Change
+STU_1465,Karnataka,Arts,Quillbot,50,Homework Help,Distracted
+STU_1466,Rajasthan,Engineering,Grammarly,184,Notes Summarization,Significantly Improved
+STU_1467,Punjab,Commerce,Perplexity AI,237,Notes Summarization,Significantly Improved
+STU_1468,Maharashtra,Commerce,Perplexity AI,77,Learning New Skills,Slightly Improved
+STU_1469,Maharashtra,Engineering,Quillbot,161,Homework Help,Slightly Improved
+STU_1470,Karnataka,Engineering,Microsoft Copilot,137,Coding Assistance,Distracted
+STU_1471,Punjab,Engineering,ChatGPT,97,Homework Help,Slightly Improved
+STU_1472,Karnataka,Commerce,Quillbot,100,Coding Assistance,Distracted
+STU_1473,Punjab,Management,Grammarly,193,Notes Summarization,Distracted
+STU_1474,Uttar Pradesh,Commerce,ChatGPT,70,Coding Assistance,Distracted
+STU_1475,Maharashtra,Science,Perplexity AI,40,Coding Assistance,Slightly Improved
+STU_1476,Maharashtra,Science,Grammarly,87,Learning New Skills,Significantly Improved
+STU_1477,Tamil Nadu,Science,Google Gemini,33,Research,No Change
+STU_1478,Uttar Pradesh,Medical,Grammarly,234,Exam Preparation,Slightly Improved
+STU_1479,Rajasthan,Engineering,Perplexity AI,179,Coding Assistance,No Change
+STU_1480,Karnataka,Arts,Grammarly,186,Exam Preparation,Distracted
+STU_1481,Rajasthan,Arts,Grammarly,162,Exam Preparation,Distracted
+STU_1482,Tamil Nadu,Arts,Google Gemini,31,Notes Summarization,No Change
+STU_1483,Maharashtra,Medical,Perplexity AI,118,Coding Assistance,Significantly Improved
+STU_1484,Delhi,Science,Grammarly,119,Research,Distracted
+STU_1485,Tamil Nadu,Medical,ChatGPT,50,Research,No Change
+STU_1486,Rajasthan,Commerce,Microsoft Copilot,92,Research,No Change
+STU_1487,Punjab,Arts,Quillbot,182,Exam Preparation,No Change
+STU_1488,Gujarat,Commerce,ChatGPT,153,Homework Help,No Change
+STU_1489,Uttar Pradesh,Science,Google Gemini,222,Homework Help,Distracted
+STU_1490,Delhi,Medical,Grammarly,71,Notes Summarization,No Change
+STU_1491,Delhi,Engineering,Google Gemini,196,Notes Summarization,No Change
+STU_1492,Karnataka,Arts,Microsoft Copilot,191,Learning New Skills,Significantly Improved
+STU_1493,Delhi,Management,Grammarly,157,Notes Summarization,Distracted
+STU_1494,Rajasthan,Science,Grammarly,64,Learning New Skills,Significantly Improved
+STU_1495,Karnataka,Engineering,Quillbot,167,Learning New Skills,Significantly Improved
+STU_1496,Punjab,Commerce,ChatGPT,55,Research,Significantly Improved
+STU_1497,Uttar Pradesh,Medical,Microsoft Copilot,57,Research,Significantly Improved
+STU_1498,Delhi,Engineering,ChatGPT,186,Notes Summarization,Slightly Improved
+STU_1499,Gujarat,Medical,ChatGPT,67,Exam Preparation,Significantly Improved
+STU_1500,Gujarat,Commerce,Perplexity AI,208,Coding Assistance,Distracted
